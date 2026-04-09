@@ -77,7 +77,7 @@ gl_subtype
 
 You may need to adjust column names in the scripts to match your local dataset.
 
-**Step 1: Data Preparation
+** Step 1: Data Preparation
 
 data_preparation.py loads VF and cpRNFL CSV files, matches records within a date window, applies quality filters, computes MD slope, and assigns progression categories.
 
